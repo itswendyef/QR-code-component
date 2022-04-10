@@ -22,6 +22,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshots/desktop.png)
 ![](./screenshots/mobile.png)
 
+### Links
+
+- Live Site URL: [live site URL](https://itswendyef.github.io/QR-code-component/)
+
 ## My process
 
 ### Built with
